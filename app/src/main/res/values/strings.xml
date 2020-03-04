@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Babycare</string>
+    <string name="title_activity_home">home</string>
+    <string-array name="indexmenuone">
+        <item>1month-1 year old infant</item>
+        <item>1year-2 year old child</item>
+        <item>3year-4 year old child</item>
+        <item>5year old child</item>
+    </string-array>
+
+    <string-array name="mumumenu">
+        <item>Breastfeeding</item>
+        <item>Infant feeding</item>
+        <item>Clinic Dates</item>
+    </string-array>
+
+
+    <string-array name="househelpmenu">
+        <item>Infant feeding</item>
+        <item>Clinic Dates</item>
+    </string-array>
+
+    <string-array name="househelpdescription">
+
+        <item>Get to know an infants nutritional needs as you feed them to grow healthy</item>
+        <item>Be informed on dates to take your child to clinc</item>
+    </string-array>
+
+    <string-array name="mumdescription">
+        <item>Advice on matters concerning with breast feeding</item>
+        <item>Get to know an infants nutritional needs as you feed them to grow healthy</item>
+        <item>Be informed on dates to take your child to clinc</item>
+    </string-array>
+
+
+</resources>
